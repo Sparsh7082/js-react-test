@@ -1,9 +1,3 @@
-Here's your JavaScript Q\&A converted into **basic English** suitable for a **README file** (like for a GitHub test prep or revision notes):
-
----
-
-# JavaScript Interview Q\&A (Basic English Version)
-
 ### Q1. What are the different data types in JavaScript?
 
 There are two types of data types:
